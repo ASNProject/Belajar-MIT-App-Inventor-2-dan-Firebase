@@ -8,4 +8,5 @@
 
 | Gambar                                                                                                      |  Properties |   Value        |
 |-------------------------------------------------------------------------------------------------------------|-------------|----------------|
-|  ![1](https://user-images.githubusercontent.com/49858542/90304864-41712580-dee6-11ea-96f1-d2f64b9e39cf.png) | Label       | Kalkulator..   |
+|  ![1](https://user-images.githubusercontent.com/49858542/90304864-41712580-dee6-11ea-96f1-d2f64b9e39cf.png) | Label 1<br />Label 2<br />Label 3 | Kalkulator     |
+                                                                                                                  
