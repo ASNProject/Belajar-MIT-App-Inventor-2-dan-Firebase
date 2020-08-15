@@ -6,4 +6,6 @@
 
 2. Buatlah layout seperti pada gambar dibawah ini.
 
-![1](https://user-images.githubusercontent.com/49858542/90304864-41712580-dee6-11ea-96f1-d2f64b9e39cf.png)
+| Gambar                                                                                                      |  Properties |   Value        |
+|-------------------------------------------------------------------------------------------------------------|-------------|----------------|
+|  ![1](https://user-images.githubusercontent.com/49858542/90304864-41712580-dee6-11ea-96f1-d2f64b9e39cf.png) | Label       | Kalkulator..   |
