@@ -26,9 +26,16 @@ Gunakan Layout Vertical Scroll untuk base, selanjutnya untuk setiap baris menggu
 
 1. Buat database Firebase dengan akun Google melalui link berikut https://firebase.google.com/
 
-2. Setelah berhasil login selanjutnya buat database baru menggunakan Realtime database dengan mengikuti langkah seperti pada video dibawah ini:<br />
+2. Setelah berhasil login selanjutnya buat database baru menggunakan Realtime database dengan mengikuti langkah seperti pada video pada link berikut https://youtu.be/PTmKysmX29c<br />
+## Atau bisa klik gambar dibawah ini
 
 [![Watch the video](https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1314/https://www.initekno.com/wp-content/uploads/2019/04/firebase1.png)](https://youtu.be/PTmKysmX29c)
+
+3. Buat Layout seperti pada gambar dibawah ini:
+
+| Gambar                                                                                                      |  Properties |   Value        |
+|-------------------------------------------------------------------------------------------------------------|-------------|----------------|
+| ![image](https://user-images.githubusercontent.com/49858542/90311885-ff69d300-df29-11ea-971e-c805474d122a.png) | Label1<ber />Label2<br /> | Data Firebase<br />Nilai|
 
 
 
