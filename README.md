@@ -56,8 +56,8 @@ Gunakan Layout Vertical Scroll untuk base, selanjutnya untuk setiap baris menggu
 
 ![image](https://user-images.githubusercontent.com/49858542/90312139-37721580-df2c-11ea-9f11-55c8a2c8ae2e.png)
 
-## Catatan :<br />
-Kosongkan pada Properti " ProjectBucket "!
+   ###### Catatan :<br />
+   Kosongkan pada Properti " ProjectBucket "!
 
 7. Jalankan Aplikasi 
 
