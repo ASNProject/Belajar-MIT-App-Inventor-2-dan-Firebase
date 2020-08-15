@@ -22,6 +22,14 @@ Gunakan Layout Vertical Scroll untuk base, selanjutnya untuk setiap baris menggu
 
 5. Untuk mengexport aplikasi menjadi .apk dapat dilakukan dengan memilih menu Build -> Pilih salah satu apakah akan dieksport melalui QR Code atau disimpan di komputer.
 
+## B. Menampilkan data Firebase ke Aplikasi dengan APP Inventor
+
+1. Buat database Firebase dengan akun Google melalui link berikut https://firebase.google.com/
+
+2. Setelah berhasil login selanjutnya buat database baru menggunakan Realtime database dengan mengikuti langkah seperti pada video dibawah ini:<br />
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/PTmKysmX29c)
+
 
 
 
