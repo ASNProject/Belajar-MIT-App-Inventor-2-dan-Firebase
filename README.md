@@ -21,3 +21,8 @@ Gunakan Layout Vertical Scroll untuk base, selanjutnya untuk setiap baris menggu
 4. Untuk menjalankan program silahkan download terlebih dahulu aplikasi untuk menghubungkan App Inventor dengan Android, dengan link download https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3<br />Setelah aplikasi berhasil didownload selanjutnya kembali ke App Inventor kemudian pilih menu Connect -> AI Companion. Lalu scan barcode yang ditampilan dan aplikasi yang baru dibuat akan ditampilkan secara otomatis pada aplikasi android.
 
 5. Untuk mengexport aplikasi menjadi .apk dapat dilakukan dengan memilih menu Build -> Pilih salah satu apakah akan dieksport melalui QR Code atau disimpan di komputer.
+
+
+
+
+
