@@ -35,7 +35,17 @@ Gunakan Layout Vertical Scroll untuk base, selanjutnya untuk setiap baris menggu
 
 | Gambar                                                                                                      |  Properties |   Value        |
 |-------------------------------------------------------------------------------------------------------------|-------------|----------------|
-| ![image](https://user-images.githubusercontent.com/49858542/90311885-ff69d300-df29-11ea-971e-c805474d122a.png) | Label1<ber />Label2<br /> | Data Firebase<br />Nilai|
+| ![image](https://user-images.githubusercontent.com/49858542/90311885-ff69d300-df29-11ea-971e-c805474d122a.png) | Label1<br />Label2<br /> | Data Firebase<br />Nilai|
+
+4. Pada block program buat seperti pada gambar dibawah ini
+
+![image](https://user-images.githubusercontent.com/49858542/90311966-bd8d5c80-df2a-11ea-90bf-990e78a7b8c6.png)
+
+5. Masukkan Token dan link app pada FirebaseDB1 di App Inventor
+
+|Lokasi Link Firebase|Lokasi Link Token|
+|--------------------|-----------------|
+| ![image](https://user-images.githubusercontent.com/49858542/90312012-368cb400-df2b-11ea-88f9-d1484a30ae83.png) | ![sdfg](https://user-images.githubusercontent.com/49858542/90312054-8cf9f280-df2b-11ea-96e4-4515ad7d35aa.png) |
 
 
 
