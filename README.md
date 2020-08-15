@@ -28,7 +28,7 @@ Gunakan Layout Vertical Scroll untuk base, selanjutnya untuk setiap baris menggu
 
 2. Setelah berhasil login selanjutnya buat database baru menggunakan Realtime database dengan mengikuti langkah seperti pada video dibawah ini:<br />
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/PTmKysmX29c)
+[![Watch the video](https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1314/https://www.initekno.com/wp-content/uploads/2019/04/firebase1.png)](https://youtu.be/PTmKysmX29c)
 
 
 
