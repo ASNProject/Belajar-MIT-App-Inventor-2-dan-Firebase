@@ -43,9 +43,14 @@ Gunakan Layout Vertical Scroll untuk base, selanjutnya untuk setiap baris menggu
 
 5. Masukkan Token dan link app pada FirebaseDB1 di App Inventor
 
-|Lokasi Link Firebase|Lokasi Link Token|
-|--------------------|-----------------|
-| ![image](https://user-images.githubusercontent.com/49858542/90312012-368cb400-df2b-11ea-88f9-d1484a30ae83.png) | ![sdfg](https://user-images.githubusercontent.com/49858542/90312054-8cf9f280-df2b-11ea-96e4-4515ad7d35aa.png) |
+Lokasi link Firebase
+
+![image](https://user-images.githubusercontent.com/49858542/90312012-368cb400-df2b-11ea-88f9-d1484a30ae83.png) 
+
+Lokasi Token Firebase<br />
+Masuk ke menu Settingan Project -> Akun Layanan -> Rahasia Database
+
+![sdfg](https://user-images.githubusercontent.com/49858542/90312054-8cf9f280-df2b-11ea-96e4-4515ad7d35aa.png) 
 
 
 
