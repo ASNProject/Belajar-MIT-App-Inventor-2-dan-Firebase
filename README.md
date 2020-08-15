@@ -1,6 +1,6 @@
 # Belajar-MIT-App-Inventor-2-dan-Firebase
 
-# A. Belajar membuat Kalkulator penghitung luas Persegi Panjang 
+## A. Belajar membuat Kalkulator penghitung luas Persegi Panjang 
 
 1. Masuk kedalam situs https://appinventor.mit.edu/. Kemudian pilih Create Apps
 
@@ -12,7 +12,8 @@
 |-------------------------------------------------------------------------------------------------------------|-------------|----------------|
 |  ![1](https://user-images.githubusercontent.com/49858542/90304864-41712580-dee6-11ea-96f1-d2f64b9e39cf.png) | Label 1<br />Label 2<br />Label 3<br />Label 4<br />Label 5<br />TextBoxt 1<br />TextBox 2<br/>Button | Kalkulator<br />Panjang<br />Lebar<br />Hasil<br />Nilai<br />Nilai Panjang<br />Nilai Lebar<br />Tekan     |
 
-Catatan:<br />Gunakan Layout Vertical Scroll untuk base, selanjutnya untuk setiap baris menggunakan Layout Horizontal.
+######Catatan:<br />
+Gunakan Layout Vertical Scroll untuk base, selanjutnya untuk setiap baris menggunakan Layout Horizontal.
 
 3. Setelah pembuatan layout selesai selanjutnya kebagian block programming. Masukkan block Programming seperti pada gambar dibawah ini.
 
