@@ -61,6 +61,16 @@ Gunakan Layout Vertical Scroll untuk base, selanjutnya untuk setiap baris menggu
 
 7. Jalankan Aplikasi 
 
+Selamat mencoba.
+
+
+
+
+Author
+
+ASNProject<br />
+email: asnproject02@gmail.com
+
 
 
 
